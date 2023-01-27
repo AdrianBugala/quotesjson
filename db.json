@@ -1,0 +1,64 @@
+{
+    "quotes":[
+      {
+      "id": 1,
+      "author": "F. Scott Fitzgerald",
+      "quote": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.",
+      "title": "The Crack-Up"
+      },
+      {
+      "id": 2,
+      "author": "J.K. Rowling",
+      "quote": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+      "title": "Harry Potter and the Prisoner of Azkaban"
+      },
+      {
+      "id": 3,
+      "author": "Mark Twain",
+      "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+      "title": "The Adventures of Huckleberry Finn"
+      },
+      {
+      "id": 4,
+      "author": "Stephen King",
+      "quote": "I think that we're all mentally ill. Those of us outside the asylums only hide it a little better - and maybe not all that much better after all.",
+      "title": "Danse Macabre"
+      },
+      {
+      "id": 5,
+      "author": "George Orwell",
+      "quote": "In a time of deceit, telling the truth is a revolutionary act.",
+      "title": "1984"
+      },
+      {
+      "id": 6,
+      "author": "Leo Tolstoy",
+      "quote": "The two most powerful warriors are patience and time.",
+      "title": "War and Peace"
+      },
+      {
+      "id": 7,
+      "author": "Harper Lee",
+      "quote": "You never really understand a person until you consider things from his point of view.",
+      "title": "To Kill a Mockingbird"
+      },
+      {
+      "id": 8,
+      "author": "Ernest Hemingway",
+      "quote": "The world breaks everyone, and afterward, some are strong at the broken places.",
+      "title": "A Farewell to Arms"
+      },
+      {
+      "id": 9,
+      "author": "Jane Austen",
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "title": "Pride and Prejudice"
+      },
+      {
+      "id": 10,
+      "author": "William Shakespeare",
+      "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles.",
+      "title": "Hamlet"
+      }
+      ]
+}
