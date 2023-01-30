@@ -38,15 +38,15 @@
       },
       {
       "id": 7,
-      "author": "Harper Lee",
-      "quote": "You never really understand a person until you consider things from his point of view.",
-      "title": "To Kill a Mockingbird"
+      "author": "Virgil",
+      "quote": "Fortune favors the brave.",
+      "title": "The Aeneid"
       },
       {
       "id": 8,
-      "author": "Ernest Hemingway",
-      "quote": "The world breaks everyone, and afterward, some are strong at the broken places.",
-      "title": "A Farewell to Arms"
+      "author": "Harper Lee",
+      "quote": "You never really understand a person until you consider things from his point of view.",
+      "title": "To Kill a Mockingbird"
       },
       {
       "id": 9,
@@ -59,6 +59,114 @@
       "author": "William Shakespeare",
       "quote": "To be, or not to be: that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles.",
       "title": "Hamlet"
+      },    
+      {
+      "id": 11,
+      "author": "Ernest Hemingway",
+      "quote": "The world breaks everyone, and afterward, some are strong at the broken places.",
+      "title": "A Farewell to Arms"
+      },
+      {
+      "id": 12,
+      "author": "Stephen King",
+      "quote": "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.",
+      "title": "The Elephant Man"
+      },
+      {
+      "id": 13,
+      "author": "Agatha Christie",
+      "quote": "An archaeologist is the best husband a woman can have; the older she gets the more interested he is in her.",
+      "title": "Murder on the Orient Express"
+      },
+      {
+      "id": 14,
+      "author": "William Faulkner",
+      "quote": "The past is never dead. It's not even past.",
+      "title": "Requiem for a Nun"
+      },
+      {
+      "id": 15,
+      "author": "Ray Bradbury",
+      "quote": "You don't have to burn books to destroy a culture. Just get people to stop reading them.",
+      "title": "Fahrenheit 451"
+      },
+      {
+      "id": 16,
+      "author": "C.S. Lewis",
+      "quote": "We are what we believe we are.",
+      "title": "Mere Christianity"
+      },
+      {
+      "id": 17,
+      "author": "John Steinbeck",
+      "quote": "The free, exploring mind of the individual human is the most valuable thing in the world.",
+      "title": "East of Eden"
+      },
+      {
+      "id": 18,
+      "author": "Charles Dickens",
+      "quote": "It was the best of times, it was the worst of times.",
+      "title": "A Tale of Two Cities"
+      },
+      {
+      "id": 19,
+      "author": "E.L. James",
+      "quote": "Laters, baby.",
+      "title": "Fifty Shades of Grey"
+      },
+      {
+      "id": 20,
+      "author": "Aldous Huxley",
+      "quote": "The greatest triumphs of propaganda have been accomplished, not by doing something, but by refraining from doing.",
+      "title": "Brave New World"
+      },
+      {
+      "id": 21,
+      "author": "Margaret Atwood",
+      "quote": "War is what happens when language fails.",
+      "title": "The Handmaid's Tale"
+      },
+      {
+      "id": 22,
+      "author": "Roald Dahl",
+      "quote": "A little nonsense now and then is cherished by the wisest men.",
+      "title": "Charlie and the Chocolate Factory"
+      },
+      {
+      "id": 23,
+      "author": "J.D. Salinger",
+      "quote": "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it.",
+      "title": "The Catcher in the Rye"
+      },
+      {
+      "id": 24,
+      "author": "Mark Twain",
+      "quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
+      "title": "The Adventures of Tom Sawyer"
+      },
+      {
+      "id": 25,
+      "author": "Suzanne Collins",
+      "quote": "Hope. It is the only thing stronger than fear.",
+      "title": "The Hunger Games"
+      },
+      {
+      "id": 26,
+      "author": "F. Scott Fitzgerald",
+      "quote": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+      "title": "The Great Gatsby"
+      },
+      {
+      "id": 27,
+      "author": "J.R.R. Tolkien",
+      "quote": "All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost.",
+      "title": "The Lord of the Rings"
+      },
+      {
+      "id": 28,
+      "author": "George Orwell",
+      "quote": "If you want to keep a secret, you must also hide it from yourself.",
+      "title": "1984"
       }
       ]
 }
